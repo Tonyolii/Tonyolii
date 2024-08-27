@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonyolii Tony Oliveira
 - 👀 I’m interested in Programming and CyberSecurity.
-- 🌱 I’m currently learning Java, JavaScript, Python and NodeJS.
+- 🌱 I’m currently learning Java, JavaScript, Python and Spring.
 - 💞️ I’m not looking to collaborate on anything special.
 - 📫 How to reach me : dev.tony.oliveira@gmail.com
 - ⚡ Fun fact: Too old to start at Programming, feeling like a child throught the code lines.
